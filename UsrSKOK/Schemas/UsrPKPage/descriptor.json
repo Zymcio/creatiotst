@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "8f1e9eaf-4232-477c-89c3-a1e223f1eeaa",
     "Name": "UsrPKPage",
-    "ModifiedOnUtc": "\/Date(1758028932000)\/",
+    "ModifiedOnUtc": "\/Date(1758036266000)\/",
     "Parent": {
       "UId": "7ed23be6-71df-4ad3-b56a-caa77b9881ce",
       "Name": "PageWithTabsAndProgressBarTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "PK Page",
-    "DependsOn": []
+    "Caption": "PK Page"
   }
 }
