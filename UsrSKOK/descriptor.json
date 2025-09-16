@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "b7dd81f0-ddab-4d15-a771-aa2ef67007d8",
+    "Name": "UsrSKOK",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrSKOK.csproj",
+    "DependsOn": [
+      {
+        "UId": "70ff4e5f-d0af-6a9b-e063-f7171aac2c42",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIPlatform",
+        "Type": 1
+      }
+    ]
+  }
+}
